@@ -1,1 +1,1 @@
-print("zoro lun aahy")
+print("Nizamani is here")
